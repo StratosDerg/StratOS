@@ -2,7 +2,8 @@
 My own little custom OS (Side project to avoid burnout)
 
 ## Progress
--# Based on the process described in [OSDev.org](https://wiki.osdev.org/Creating_an_Operating_System)
+<small>Based on the process described in [OSDev.org](https://wiki.osdev.org/Creating_an_Operating_System)</small>
+
 ### Phase 0: Setup
 
 #### Building GCC <-- I am here
