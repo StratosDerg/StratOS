@@ -2,7 +2,7 @@
 My own little custom OS (Side project to avoid burnout)
 
 ## Progress
-<small>Based on the process described in [OSDev.org](https://wiki.osdev.org/Creating_an_Operating_System)</small>
+<sub>Based on the process described in [OSDev.org](https://wiki.osdev.org/Creating_an_Operating_System)</sub>
 
 ### Phase 0: Setup
 
