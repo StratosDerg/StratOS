@@ -6,12 +6,12 @@ My own little custom OS (Side project to avoid burnout)
 
 ### Phase 0: Setup
 
-#### Building GCC <-- I am here
+#### Building GCC
 Compiling a compiler that compiles the uncompiled code on the compiled development OS so that I can compile my own OS.
 
 ### Phase 1: Basics
 
-#### Setting up a Cross-Toolchain
+#### Setting up a Cross-Toolchain <-- I am here
 Connecting GCC to my new OS
 
 #### Creating a Hello World Kernel
