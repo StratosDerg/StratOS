@@ -11,10 +11,10 @@ Compiling a compiler that compiles the uncompiled code on the compiled developme
 
 ### Phase 1: Basics
 
-#### Setting up a Cross-Toolchain <-- I am here
-Connecting GCC to my new OS
+#### Setting up a Cross-Toolchain
+Compiling a compiler that can compile to a general x86_64 CPU.
 
-#### Creating a Hello World Kernel
+#### Creating a Hello World Kernel <-- I am here
 This is where everything finally starts! This is where the very very basics are finally complete and we can begin adding interactivity.
 
 #### Setting up infrastructure
